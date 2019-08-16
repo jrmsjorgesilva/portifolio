@@ -1,0 +1,15 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "portifolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jrmsjorgesilva.github.io/portifolio",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
